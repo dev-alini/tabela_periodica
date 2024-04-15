@@ -1,0 +1,83 @@
+
+
+
+body{
+    background-color: #dfa8fa;
+}
+
+.titulo{
+    color: palevioletred;
+    font-size: 45px;
+    text-align: center;
+}
+
+
+.verde{
+    background-color: #52e88f;
+}
+.verde:hover {
+    background-color: white;
+}
+
+
+.amarelo{
+    background-color: #ffe829;
+}
+.amarelo:hover {
+    background-color: pink;
+}
+
+.laranja{
+    background-color: #ffcf57;
+}
+.laranja:hover {
+    background-color: yellow;
+}
+
+.rosa{
+    background-color: #ff9fbb;
+}
+.rosa:hover {
+    background-color: red;
+}
+
+.verdinho{
+    background-color: #07c2b3;
+}
+.verdinho:hover {
+    background-color: whitesmoke;
+}
+
+.azul_1{
+    background-color: #008eff;
+}
+.azul_1:hover {
+    background-color: orange;
+}
+
+.azul_2{
+    background-color: #00d5e1;
+}
+.azul_2:hover {
+    background-color: purple;
+}
+
+.azul_3{
+    background-color: #00acec;
+}
+.azul_3:hover {
+    background-color: peru;
+}
+
+.lilas{
+    background-color: #eb75fd;
+}
+.lilas:hover {
+    background-color: burlywood;
+}
+
+.container{
+    mix-blend-mode: multiply;
+    display: flex;
+    justify-content: center;
+}
